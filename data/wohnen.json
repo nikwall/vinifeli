@@ -3891,7 +3891,7 @@
    "stadtteil_text": "Oberdürrbach",
    "strasse": null,
    "erstmals": "2026-11-09",
-   "zuletzt": "2026-11-09",
+   "zuletzt": "2026-11-15",
    "lat": 49.82262,
    "lon": 9.90864,
    "lage": "stadtteil",
@@ -40936,6 +40936,721 @@
     "traeger": "staatlich"
    },
    "aktiv": true
+  },
+  "immoscout24:172669177": {
+   "id": "immoscout24:172669177",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172669177",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1137.0,
+   "flaeche": 105.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Langenhorn",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.6633,
+   "lon": 10.0083,
+   "lage": "stadtteil",
+   "stadtteil": "Langenhorn",
+   "bahn": {
+    "name": "Langenhorn Nord",
+    "linien": [
+     "U1"
+    ],
+    "min": 11
+   },
+   "schule": {
+    "name": "Schule Neubergerweg",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172630042": {
+   "id": "immoscout24:172630042",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172630042",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 622500.0,
+   "flaeche": 135.0,
+   "zimmer": 5.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Rahlstedt",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.60388,
+   "lon": 10.15815,
+   "lage": "stadtteil",
+   "stadtteil": "Rahlstedt",
+   "bahn": {
+    "name": "Oldenfelde",
+    "linien": [
+     "U1"
+    ],
+    "min": 40
+   },
+   "schule": {
+    "name": "Grundschule Neurahlstedt",
+    "min": 9,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172631915": {
+   "id": "immoscout24:172631915",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172631915",
+   "typ": "kauf",
+   "art": "Doppelhaus",
+   "preis": 680000.0,
+   "flaeche": 126.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": true,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Tonndorf",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.5869,
+   "lon": 10.1175,
+   "lage": "stadtteil",
+   "stadtteil": "Tonndorf",
+   "bahn": {
+    "name": "Trabrennbahn",
+    "linien": [
+     "U1"
+    ],
+    "min": 26
+   },
+   "schule": {
+    "name": "Grundschule Tonndorf",
+    "min": 13,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172670719": {
+   "id": "immoscout24:172670719",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172670719",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1685.0,
+   "flaeche": 92.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Eidelstedt",
+   "strasse": "Pinneberger Chaussee 28",
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.6106,
+   "lon": 9.90068,
+   "lage": "adresse",
+   "stadtteil": "Eidelstedt",
+   "bahn": {
+    "name": "Eidelstedt Zentrum",
+    "linien": [
+     "A1"
+    ],
+    "min": 1
+   },
+   "schule": {
+    "name": "Schule Furtweg",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "laerm": 70,
+   "aktiv": true
+  },
+  "immoscout24:172669900": {
+   "id": "immoscout24:172669900",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172669900",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 2130.0,
+   "flaeche": 80.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": true,
+   "kapitalanlage": false,
+   "balkon": true,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Lokstedt",
+   "strasse": "Mutzenbecherweg 17",
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.60245,
+   "lon": 9.94889,
+   "lage": "adresse",
+   "stadtteil": "Lokstedt",
+   "bahn": {
+    "name": "Hagendeel",
+    "linien": [
+     "U2"
+    ],
+    "min": 5
+   },
+   "schule": {
+    "name": "Schule Hinter der Lieth",
+    "min": 4,
+    "traeger": "staatlich"
+   },
+   "laerm": 0,
+   "aktiv": true
+  },
+  "immoscout24:172670942": {
+   "id": "immoscout24:172670942",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172670942",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 549000.0,
+   "flaeche": 86.02,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Eidelstedt",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.605,
+   "lon": 9.91611,
+   "lage": "stadtteil",
+   "stadtteil": "Eidelstedt",
+   "bahn": {
+    "name": "Eidelstedt Zentrum",
+    "linien": [
+     "A1"
+    ],
+    "min": 18
+   },
+   "schule": {
+    "name": "Schule Wegenkamp",
+    "min": 9,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172669264": {
+   "id": "immoscout24:172669264",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172669264",
+   "typ": "kauf",
+   "art": "Doppelhaus",
+   "preis": 786700.0,
+   "flaeche": 122.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Lurup",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.59295,
+   "lon": 9.87456,
+   "lage": "stadtteil",
+   "stadtteil": "Lurup",
+   "bahn": {
+    "name": "Elbgaustraße",
+    "linien": [
+     "S2",
+     "S3",
+     "S5"
+    ],
+    "min": 27
+   },
+   "schule": {
+    "name": "Grundschule Luruper Hauptstraße",
+    "min": 5,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:171546207": {
+   "id": "immoscout24:171546207",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/171546207",
+   "typ": "kauf",
+   "art": "Reihenhaus",
+   "preis": 189600.0,
+   "flaeche": 87.0,
+   "zimmer": 3.5,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": true,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Neugraben-Fischbek",
+   "strasse": "Fritz-Döhling-Weg 7",
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.45936,
+   "lon": 9.86146,
+   "lage": "adresse",
+   "stadtteil": "Neugraben-Fischbek",
+   "bahn": {
+    "name": "Neugraben",
+    "linien": [
+     "S3",
+     "S5"
+    ],
+    "min": 28
+   },
+   "schule": {
+    "name": "Stadtteilschule Fischbek-Falkenberg",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "laerm": 0,
+   "aktiv": true
+  },
+  "immoscout24:172671811": {
+   "id": "immoscout24:172671811",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172671811",
+   "typ": "miete",
+   "art": "Haus",
+   "preis": 1900.0,
+   "flaeche": 95.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Eidelstedt",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.605,
+   "lon": 9.91611,
+   "lage": "stadtteil",
+   "stadtteil": "Eidelstedt",
+   "bahn": {
+    "name": "Eidelstedt Zentrum",
+    "linien": [
+     "A1"
+    ],
+    "min": 18
+   },
+   "schule": {
+    "name": "Schule Wegenkamp",
+    "min": 9,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immowelt:26mg9yq1fiet": {
+   "id": "immowelt:26mg9yq1fiet",
+   "quelle": "immowelt",
+   "url": "https://www.immowelt.de/expose/26mg9yq1fiet",
+   "typ": "miete",
+   "art": null,
+   "preis": 900.0,
+   "flaeche": 84.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": "22455",
+   "stadtteil_text": "Niendorf",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.64077,
+   "lon": 9.9514,
+   "lage": "plz",
+   "stadtteil": "Niendorf",
+   "bahn": {
+    "name": "Niendorf Nord",
+    "linien": [
+     "U2"
+    ],
+    "min": 1
+   },
+   "schule": {
+    "name": "Schule Moorflagen",
+    "min": 8,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immowelt:9f237aa7-4332-4f5f-8784-c8177a256064": {
+   "id": "immowelt:9f237aa7-4332-4f5f-8784-c8177a256064",
+   "quelle": "immowelt",
+   "url": "https://www.immowelt.de/expose/9f237aa7-4332-4f5f-8784-c8177a256064",
+   "typ": "kauf",
+   "art": null,
+   "preis": 829000.0,
+   "flaeche": 291.0,
+   "zimmer": 9.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": true,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Lüneburg",
+   "plz": "21335",
+   "stadtteil_text": "Rotes Feld",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.23903,
+   "lon": 10.4084,
+   "lage": "stadtteil",
+   "stadtteil": "Rotes Feld",
+   "bahn": {
+    "name": "Wielandstraße",
+    "linien": [
+     "5009",
+     "5074"
+    ],
+    "min": 4,
+    "art": "bus"
+   },
+   "schule": {
+    "name": "Grundschule Im Roten Feld",
+    "min": 8,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immowelt:c39f8a2c-e749-4587-b1a0-f95547036dd1": {
+   "id": "immowelt:c39f8a2c-e749-4587-b1a0-f95547036dd1",
+   "quelle": "immowelt",
+   "url": "https://www.immowelt.de/expose/c39f8a2c-e749-4587-b1a0-f95547036dd1",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 540000.0,
+   "flaeche": 134.0,
+   "zimmer": 5.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": "22119",
+   "stadtteil_text": "Billstedt",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.55632,
+   "lon": 10.10876,
+   "lage": "plz",
+   "stadtteil": "Billstedt",
+   "bahn": {
+    "name": "Legienstraße",
+    "linien": [
+     "U2",
+     "U4"
+    ],
+    "min": 22
+   },
+   "schule": {
+    "name": "Brüder-Grimm-Schule",
+    "min": 6,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172673058": {
+   "id": "immoscout24:172673058",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172673058",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1646.0,
+   "flaeche": 88.99,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Farmsen-Berne",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.61244,
+   "lon": 10.11577,
+   "lage": "stadtteil",
+   "stadtteil": "Farmsen-Berne",
+   "bahn": {
+    "name": "Farmsen",
+    "linien": [
+     "U1"
+    ],
+    "min": 10
+   },
+   "schule": {
+    "name": "August-Hermann-Francke-Schule Farmsen",
+    "min": 5,
+    "traeger": "frei"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172673476": {
+   "id": "immoscout24:172673476",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172673476",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 798.0,
+   "flaeche": 86.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Eidelstedt",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.605,
+   "lon": 9.91611,
+   "lage": "stadtteil",
+   "stadtteil": "Eidelstedt",
+   "bahn": {
+    "name": "Eidelstedt Zentrum",
+    "linien": [
+     "A1"
+    ],
+    "min": 18
+   },
+   "schule": {
+    "name": "Schule Wegenkamp",
+    "min": 9,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172673355": {
+   "id": "immoscout24:172673355",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172673355",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 997.0,
+   "flaeche": 100.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Neuallermöhe",
+   "strasse": null,
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.48321,
+   "lon": 10.16141,
+   "lage": "stadtteil",
+   "stadtteil": "Neuallermöhe",
+   "bahn": {
+    "name": "Allermöhe",
+    "linien": [
+     "S2",
+     "S7"
+    ],
+    "min": 14
+   },
+   "schule": {
+    "name": "Clara-Grunwald-Schule",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:164263152": {
+   "id": "immoscout24:164263152",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/164263152",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 850000.0,
+   "flaeche": 150.0,
+   "zimmer": 7.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": true,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Barmbek-Nord",
+   "strasse": "Tieloh 83",
+   "erstmals": "2026-11-15",
+   "zuletzt": "2026-11-15",
+   "lat": 53.59328,
+   "lon": 10.05115,
+   "lage": "adresse",
+   "stadtteil": "Barmbek-Nord",
+   "bahn": {
+    "name": "Habichtstraße",
+    "linien": [
+     "U3"
+    ],
+    "min": 1
+   },
+   "schule": {
+    "name": "Schule Heinrich-Helbing-Straße",
+    "min": 12,
+    "traeger": "staatlich"
+   },
+   "laerm": 70,
+   "aktiv": true
   }
  },
  "geocache": {
@@ -42132,6 +42847,22 @@
   "Graf-Ernst-Weg 6 b,  Hamburg": [
    53.624958,
    9.913444
+  ],
+  "Pinneberger Chaussee 28,  Hamburg": [
+   53.6105972,
+   9.9006825
+  ],
+  "Mutzenbecherweg 17,  Hamburg": [
+   53.6024494,
+   9.9488914
+  ],
+  "Fritz-Döhling-Weg 7,  Hamburg": [
+   53.4593592,
+   9.8614565
+  ],
+  "Tieloh 83,  Hamburg": [
+   53.5932791,
+   10.0511533
   ]
  },
  "verworfen": {
@@ -42819,9 +43550,59 @@
    "grund": "außerhalb der Suchgebiete",
    "tag": "2026-11-15",
    "url": "https://www.immowelt.de/expose/524c7fbf-f12a-4308-9c5b-00aee449b4d5"
+  },
+  "immoscout24:172671526": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/172671526"
+  },
+  "immoscout24:169683148": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169683148"
+  },
+  "immoscout24:169683091": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169683091"
+  },
+  "immoscout24:169683064": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169683064"
+  },
+  "immoscout24:169683014": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169683014"
+  },
+  "immoscout24:169682869": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169682869"
+  },
+  "immoscout24:169682846": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169682846"
+  },
+  "immoscout24:169682813": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169682813"
+  },
+  "immoscout24:169682765": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/169682765"
+  },
+  "immoscout24:129374970": {
+   "grund": "außerhalb der Suchgebiete",
+   "tag": "2026-11-15",
+   "url": "https://www.immobilienscout24.de/expose/129374970"
   }
  },
- "aktualisiert": "2026-11-15T12:45+00:00",
+ "aktualisiert": "2026-11-15T19:22+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -43936,9 +44717,9 @@
    },
    "eimsbuettel": {
     "miete": {
-     "aktiv": 18,
-     "qm": 20.9,
-     "neu": 0,
+     "aktiv": 19,
+     "qm": 20.91,
+     "neu": 1,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -43972,17 +44753,17 @@
    },
    "hamburg": {
     "miete": {
-     "aktiv": 204,
+     "aktiv": 212,
      "qm": 17.36,
-     "neu": 4,
+     "neu": 12,
      "weg": 0,
      "runter": 0,
      "hoch": 0
     },
     "kauf": {
-     "aktiv": 385,
-     "qm": 5596.03,
-     "neu": 23,
+     "aktiv": 392,
+     "qm": 5590.01,
+     "neu": 30,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -44052,9 +44833,9 @@
      "hoch": 0
     },
     "kauf": {
-     "aktiv": 40,
-     "qm": 5125.48,
-     "neu": 0,
+     "aktiv": 41,
+     "qm": 5101.71,
+     "neu": 1,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -44070,9 +44851,9 @@
      "hoch": 0
     },
     "kauf": {
-     "aktiv": 27,
-     "qm": 5073.53,
-     "neu": 0,
+     "aktiv": 28,
+     "qm": 4945.69,
+     "neu": 1,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -44088,9 +44869,9 @@
      "hoch": 0
     },
     "kauf": {
-     "aktiv": 99,
-     "qm": 4244.68,
-     "neu": 3,
+     "aktiv": 100,
+     "qm": 4236.75,
+     "neu": 4,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -46193,7 +46974,72 @@
    "2026-11-15",
    2,
    2
+  ],
+  "424405c86dd8da4a": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "53e31269944fd453": [
+   "2026-11-15",
+   2,
+   2
+  ],
+  "43c0c9badef3b07a": [
+   "2026-11-15",
+   2,
+   2
+  ],
+  "d2ff037e9e4f18b6": [
+   "2026-11-15",
+   12,
+   2
+  ],
+  "6a647cde541cf8fb": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "2398627b4ad5e5b3": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "42bde7d34db69ca7": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "82c1ff0d5e4ff307": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "c52aecdba7723349": [
+   "2026-11-15",
+   1,
+   2
+  ],
+  "665ef2051c2b94f4": [
+   "2026-11-15",
+   4,
+   2
+  ],
+  "24a8e4c167c19496": [
+   "2026-11-15",
+   0,
+   2
+  ],
+  "0c2e9f1925f44881": [
+   "2026-11-15",
+   0,
+   2
+  ],
+  "be011dd8ab18878b": [
+   "2026-11-15",
+   1,
+   2
   ]
  },
- "letzte_mail": "2026-11-15T12:45+00:00"
+ "letzte_mail": "2026-11-15T19:21+00:00"
 }
