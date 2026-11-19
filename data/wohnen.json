@@ -53923,6 +53923,50 @@
    "erstmals": "2026-11-18",
    "zuletzt": "2026-11-18",
    "aktiv": true
+  },
+  "immoscout24:172785257": {
+   "id": "immoscout24:172785257",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172785257",
+   "typ": "kauf",
+   "art": "Wohnung",
+   "preis": 480000.0,
+   "flaeche": 98.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": true,
+   "kapitalanlage": false,
+   "balkon": true,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Hummelsbüttel",
+   "strasse": null,
+   "erstmals": "2026-11-19",
+   "zuletzt": "2026-11-19",
+   "lat": 53.63974,
+   "lon": 10.03953,
+   "lage": "stadtteil",
+   "stadtteil": "Hummelsbüttel",
+   "bahn": {
+    "name": "Fuhlsbüttel",
+    "linien": [
+     "U1"
+    ],
+    "min": 19
+   },
+   "schule": {
+    "name": "Schule Grützmühlenweg",
+    "min": 11,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
   }
  },
  "geocache": {
@@ -56331,7 +56375,7 @@
    "url": "https://www.immobilienscout24.de/expose/172768873"
   }
  },
- "aktualisiert": "2026-11-18T21:52+00:00",
+ "aktualisiert": "2026-11-19T03:16+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -58147,6 +58191,188 @@
      "aktiv": 115,
      "qm": 4244.68,
      "neu": 6,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   }
+  },
+  "2026-11-19": {
+   "scheideweg": {
+    "miete": {
+     "aktiv": 10,
+     "qm": 18.03,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 15,
+     "qm": 9320.39,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "eimsbuettel": {
+    "miete": {
+     "aktiv": 30,
+     "qm": 19.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 32,
+     "qm": 8474.6,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "alster": {
+    "miete": {
+     "aktiv": 30,
+     "qm": 22.14,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 30,
+     "qm": 10109.61,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "hamburg": {
+    "miete": {
+     "aktiv": 283,
+     "qm": 17.0,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 555,
+     "qm": 5555.56,
+     "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_kern": {
+    "miete": {
+     "aktiv": 33,
+     "qm": 13.0,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 36,
+     "qm": 4864.32,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_familie": {
+    "miete": {
+     "aktiv": 30,
+     "qm": 12.97,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 48,
+     "qm": 4110.17,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_alle": {
+    "miete": {
+     "aktiv": 89,
+     "qm": 12.78,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 108,
+     "qm": 3851.17,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_kern": {
+    "miete": {
+     "aktiv": 24,
+     "qm": 11.87,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 47,
+     "qm": 5101.71,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_gruen": {
+    "miete": {
+     "aktiv": 13,
+     "qm": 12.43,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 32,
+     "qm": 4693.45,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_alle": {
+    "miete": {
+     "aktiv": 55,
+     "qm": 11.71,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 115,
+     "qm": 4244.68,
+     "neu": 0,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -61394,7 +61620,12 @@
    "2026-11-18",
    1,
    2
+  ],
+  "988492951bacaf27": [
+   "2026-11-19",
+   1,
+   2
   ]
  },
- "letzte_mail": "2026-11-18T21:51+00:00"
+ "letzte_mail": "2026-11-19T03:16+00:00"
 }
