@@ -48212,7 +48212,7 @@
    "url": "https://www.immobilienscout24.de/expose/172737845",
    "typ": "kauf",
    "art": "Wohnung",
-   "preis": 499500.0,
+   "preis": 449500.0,
    "flaeche": 83.0,
    "zimmer": 4.0,
    "etage": null,
@@ -48231,7 +48231,7 @@
    "stadtteil_text": "Lurup",
    "strasse": null,
    "erstmals": "2026-11-17",
-   "zuletzt": "2026-11-17",
+   "zuletzt": "2026-11-21",
    "lat": 53.59295,
    "lon": 9.87456,
    "lage": "stadtteil",
@@ -48250,7 +48250,13 @@
     "min": 5,
     "traeger": "staatlich"
    },
-   "aktiv": true
+   "aktiv": true,
+   "preis_verlauf": [
+    [
+     "2026-11-21",
+     499500.0
+    ]
+   ]
   },
   "immoscout24:172737316": {
    "id": "immoscout24:172737316",
@@ -49160,7 +49166,7 @@
    "stadtteil_text": "Barmbek-Süd",
    "strasse": null,
    "erstmals": "2026-11-17",
-   "zuletzt": "2026-11-17",
+   "zuletzt": "2026-11-21",
    "lat": 53.57989,
    "lon": 10.04325,
    "lage": "stadtteil",
@@ -62027,6 +62033,95 @@
     "traeger": "frei"
    },
    "aktiv": true
+  },
+  "immoscout24:172890095": {
+   "id": "immoscout24:172890095",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172890095",
+   "typ": "kauf",
+   "art": "Wohnung",
+   "preis": 955000.0,
+   "flaeche": 107.87,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Blankenese",
+   "strasse": null,
+   "erstmals": "2026-11-21",
+   "zuletzt": "2026-11-21",
+   "lat": 53.5575,
+   "lon": 9.80306,
+   "lage": "stadtteil",
+   "stadtteil": "Blankenese",
+   "bahn": {
+    "name": "Blankenese",
+    "linien": [
+     "S1"
+    ],
+    "min": 18
+   },
+   "schule": {
+    "name": "Bugenhagen-Schule im Hessepark (Grundschule)",
+    "min": 10,
+    "traeger": "frei"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172893421": {
+   "id": "immoscout24:172893421",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172893421",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 539000.0,
+   "flaeche": 150.02,
+   "zimmer": 5.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Moorburg",
+   "strasse": null,
+   "erstmals": "2026-11-21",
+   "zuletzt": "2026-11-21",
+   "lat": 53.4878,
+   "lon": 9.93748,
+   "lage": "stadtteil",
+   "stadtteil": "Moorburg",
+   "bahn": {
+    "name": "Heimfeld (TU Hamburg)",
+    "linien": [
+     "S3",
+     "S5"
+    ],
+    "min": 49
+   },
+   "schule": {
+    "name": "Schule Grumbrechtstraße",
+    "min": 40,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
   }
  },
  "geocache": {
@@ -64424,47 +64519,47 @@
   },
   "immoscout24:172746281": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172746281"
   },
   "immoscout24:172746223": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172746223"
   },
   "immoscout24:172746183": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172746183"
   },
   "immoscout24:172746070": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172746070"
   },
   "immoscout24:172745971": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172745971"
   },
   "immoscout24:172727460": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172727460"
   },
   "immoscout24:172727199": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172727199"
   },
   "immoscout24:172727120": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172727120"
   },
   "immoscout24:172746312": {
    "grund": "Versteigerung",
-   "tag": "2026-11-17",
+   "tag": "2026-11-21",
    "url": "https://www.immobilienscout24.de/expose/172746312"
   },
   "immowelt:7ceda4ba-ab43-44b4-a570-47af8483a4ad": {
@@ -64643,7 +64738,7 @@
    "url": "https://www.immobilienscout24.de/expose/172880966"
   }
  },
- "aktualisiert": "2026-11-20T21:50+00:00",
+ "aktualisiert": "2026-11-21T03:09+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -66823,6 +66918,188 @@
      "aktiv": 122,
      "qm": 4207.92,
      "neu": 2,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   }
+  },
+  "2026-11-21": {
+   "scheideweg": {
+    "miete": {
+     "aktiv": 10,
+     "qm": 18.03,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 15,
+     "qm": 9320.39,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "eimsbuettel": {
+    "miete": {
+     "aktiv": 31,
+     "qm": 19.84,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 37,
+     "qm": 7875.0,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "alster": {
+    "miete": {
+     "aktiv": 33,
+     "qm": 21.8,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 34,
+     "qm": 9285.61,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "hamburg": {
+    "miete": {
+     "aktiv": 321,
+     "qm": 16.9,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 681,
+     "qm": 5425.87,
+     "neu": 2,
+     "weg": 0,
+     "runter": 1,
+     "hoch": 0
+    }
+   },
+   "w_kern": {
+    "miete": {
+     "aktiv": 35,
+     "qm": 12.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 38,
+     "qm": 4845.19,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_familie": {
+    "miete": {
+     "aktiv": 31,
+     "qm": 12.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 51,
+     "qm": 4110.17,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_alle": {
+    "miete": {
+     "aktiv": 92,
+     "qm": 12.63,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 114,
+     "qm": 3836.34,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_kern": {
+    "miete": {
+     "aktiv": 24,
+     "qm": 11.87,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 47,
+     "qm": 5101.71,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_gruen": {
+    "miete": {
+     "aktiv": 14,
+     "qm": 12.43,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 33,
+     "qm": 4569.04,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_alle": {
+    "miete": {
+     "aktiv": 57,
+     "qm": 11.74,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 122,
+     "qm": 4207.92,
+     "neu": 0,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -70775,7 +71052,22 @@
    "2026-11-20",
    1,
    2
+  ],
+  "9b3f747f1245b968": [
+   "2026-11-21",
+   1,
+   2
+  ],
+  "71f733b009d5541d": [
+   "2026-11-21",
+   3,
+   2
+  ],
+  "91fb60fc1759260c": [
+   "2026-11-21",
+   9,
+   2
   ]
  },
- "letzte_mail": "2026-11-20T21:50+00:00"
+ "letzte_mail": "2026-11-21T03:09+00:00"
 }
