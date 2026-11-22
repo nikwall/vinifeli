@@ -53495,7 +53495,7 @@
    "stadtteil_text": "Wellingsbüttel",
    "strasse": "Saseler Chaussee 36",
    "erstmals": "2026-11-18",
-   "zuletzt": "2026-11-18",
+   "zuletzt": "2026-11-22",
    "lat": 53.6369,
    "lon": 10.09343,
    "lage": "adresse",
@@ -65590,6 +65590,498 @@
     "traeger": "staatlich"
    },
    "aktiv": true
+  },
+  "immoscout24:172937319": {
+   "id": "immoscout24:172937319",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172937319",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1125.0,
+   "flaeche": 84.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": true,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Iserbrook",
+   "strasse": "Beim Schillingstift 6",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.56769,
+   "lon": 9.82994,
+   "lage": "adresse",
+   "stadtteil": "Iserbrook",
+   "bahn": {
+    "name": "Hochkamp",
+    "linien": [
+     "S1"
+    ],
+    "min": 17
+   },
+   "schule": {
+    "name": "Elbkinder Grundschule",
+    "min": 2,
+    "traeger": "staatlich"
+   },
+   "laerm": 0,
+   "aktiv": true
+  },
+  "immoscout24:172937004": {
+   "id": "immoscout24:172937004",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172937004",
+   "typ": "kauf",
+   "art": "Souterrain",
+   "preis": 550000.0,
+   "flaeche": 95.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": true,
+   "balkon": true,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Blankenese",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.5575,
+   "lon": 9.80306,
+   "lage": "stadtteil",
+   "stadtteil": "Blankenese",
+   "bahn": {
+    "name": "Blankenese",
+    "linien": [
+     "S1"
+    ],
+    "min": 18
+   },
+   "schule": {
+    "name": "Bugenhagen-Schule im Hessepark (Grundschule)",
+    "min": 10,
+    "traeger": "frei"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172938276": {
+   "id": "immoscout24:172938276",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172938276",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 535000.0,
+   "flaeche": 108.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Rahlstedt",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.60388,
+   "lon": 10.15815,
+   "lage": "stadtteil",
+   "stadtteil": "Rahlstedt",
+   "bahn": {
+    "name": "Oldenfelde",
+    "linien": [
+     "U1"
+    ],
+    "min": 40
+   },
+   "schule": {
+    "name": "Grundschule Neurahlstedt",
+    "min": 9,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172938283": {
+   "id": "immoscout24:172938283",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172938283",
+   "typ": "miete",
+   "art": "Haus",
+   "preis": 1350.0,
+   "flaeche": 160.0,
+   "zimmer": 6.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Fuhlsbüttel",
+   "strasse": "Doverkamp 22",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.62982,
+   "lon": 10.01653,
+   "lage": "adresse",
+   "stadtteil": "Fuhlsbüttel",
+   "bahn": {
+    "name": "Hamburg Airport (Flughafen)",
+    "linien": [
+     "S1"
+    ],
+    "min": 12
+   },
+   "schule": {
+    "name": "Grundschule Eschenweg",
+    "min": 7,
+    "traeger": "staatlich"
+   },
+   "laerm": 0,
+   "aktiv": true
+  },
+  "immoscout24:172940037": {
+   "id": "immoscout24:172940037",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172940037",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 964.0,
+   "flaeche": 110.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Würzburg",
+   "plz": null,
+   "stadtteil_text": "Heidingsfeld",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 49.75215,
+   "lon": 9.95898,
+   "lage": "stadtteil",
+   "stadtteil": "Heidingsfeld",
+   "bahn": {
+    "name": "Berner Straße",
+    "linien": [
+     "Straba"
+    ],
+    "min": 10
+   },
+   "schule": {
+    "name": "Grundschule Würzburg-Heuchelhof",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172939781": {
+   "id": "immoscout24:172939781",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172939781",
+   "typ": "miete",
+   "art": "Penthouse",
+   "preis": 2085.0,
+   "flaeche": 87.71,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": true,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": true,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Fuhlsbüttel",
+   "strasse": "Erdkampsweg 39",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.62873,
+   "lon": 10.02346,
+   "lage": "adresse",
+   "stadtteil": "Fuhlsbüttel",
+   "bahn": {
+    "name": "Fuhlsbüttel",
+    "linien": [
+     "U1"
+    ],
+    "min": 8
+   },
+   "schule": {
+    "name": "Schule Ratsmühlendamm",
+    "min": 5,
+    "traeger": "staatlich"
+   },
+   "laerm": 70,
+   "aktiv": true
+  },
+  "immowelt:264punwfhccg": {
+   "id": "immowelt:264punwfhccg",
+   "quelle": "immowelt",
+   "url": "https://www.immowelt.de/expose/264punwfhccg",
+   "typ": "miete",
+   "art": "Haus",
+   "preis": 1750.0,
+   "flaeche": 1000.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": "22177",
+   "stadtteil_text": "Bramfeld",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.60605,
+   "lon": 10.06755,
+   "lage": "plz",
+   "stadtteil": "Bramfeld",
+   "bahn": {
+    "name": "Wandsbek-Gartenstadt",
+    "linien": [
+     "U1",
+     "U3"
+    ],
+    "min": 26
+   },
+   "schule": {
+    "name": "Schule Fabriciusstraße",
+    "min": 2,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172942597": {
+   "id": "immoscout24:172942597",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172942597",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 635.13,
+   "flaeche": 83.57,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": true,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Harburg (Ortsteil)",
+   "strasse": "Bornemannstr. 12",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.45468,
+   "lon": 9.97774,
+   "lage": "adresse",
+   "stadtteil": "Harburg",
+   "bahn": {
+    "name": "Harburg Rathaus",
+    "linien": [
+     "S3",
+     "S5"
+    ],
+    "min": 11
+   },
+   "schule": {
+    "name": "Georg-Kerschensteiner-Grundschule",
+    "min": 4,
+    "traeger": "staatlich"
+   },
+   "laerm": 0,
+   "aktiv": true
+  },
+  "immoscout24:172938214": {
+   "id": "immoscout24:172938214",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172938214",
+   "typ": "miete",
+   "art": "Dachgeschoss",
+   "preis": 1800.0,
+   "flaeche": 82.41,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Hoheluft-Ost",
+   "strasse": "Löwenstraße 52",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.58615,
+   "lon": 9.97484,
+   "lage": "adresse",
+   "stadtteil": "Hoheluft-Ost",
+   "bahn": {
+    "name": "Eppendorfer Baum",
+    "linien": [
+     "U3"
+    ],
+    "min": 12
+   },
+   "schule": {
+    "name": "Grund- und Stadtteilschule Eppendorf",
+    "min": 2,
+    "traeger": "staatlich"
+   },
+   "laerm": 60,
+   "aktiv": true
+  },
+  "immoscout24:172941087": {
+   "id": "immoscout24:172941087",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172941087",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1750.0,
+   "flaeche": 130.0,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Bramfeld",
+   "strasse": "Bramfelder Chaussee 11",
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.5948,
+   "lon": 10.06036,
+   "lage": "adresse",
+   "stadtteil": "Bramfeld",
+   "bahn": {
+    "name": "Habichtstraße",
+    "linien": [
+     "U3"
+    ],
+    "min": 9
+   },
+   "schule": {
+    "name": "Schule Heinrich-Helbing-Straße",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "laerm": 70,
+   "aktiv": true
+  },
+  "immoscout24:172941758": {
+   "id": "immoscout24:172941758",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172941758",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 864.0,
+   "flaeche": 180.0,
+   "zimmer": 3.5,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Jenfeld",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.57584,
+   "lon": 10.13374,
+   "lage": "stadtteil",
+   "stadtteil": "Jenfeld",
+   "bahn": {
+    "name": "Trabrennbahn",
+    "linien": [
+     "U1"
+    ],
+    "min": 53
+   },
+   "schule": {
+    "name": "Schule Jenfelder Straße",
+    "min": 1,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
   }
  },
  "geocache": {
@@ -67182,6 +67674,22 @@
   "22607 Hamburg": [
    53.5686749,
    9.8799509
+  ],
+  "Beim Schillingstift 6,  Hamburg": [
+   53.5676912,
+   9.8299403
+  ],
+  "Doverkamp 22,  Hamburg": [
+   53.6298166,
+   10.0165332
+  ],
+  "Bornemannstr. 12,  Hamburg": [
+   53.4546773,
+   9.9777374
+  ],
+  "Löwenstraße 52,  Hamburg": [
+   53.5861543,
+   9.9748435
   ]
  },
  "verworfen": {
@@ -68319,9 +68827,34 @@
    "grund": "Katalog-Neubau",
    "tag": "2026-11-22",
    "url": "https://www.immobilienscout24.de/expose/172936951"
+  },
+  "immoscout24:172941498": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-22",
+   "url": "https://www.immobilienscout24.de/expose/172941498"
+  },
+  "immowelt:8e2aa93b-29b9-4ef4-9f5e-71b6a9d4f608": {
+   "grund": "Tauschwohnung",
+   "tag": "2026-11-22",
+   "url": "https://www.immowelt.de/expose/8e2aa93b-29b9-4ef4-9f5e-71b6a9d4f608"
+  },
+  "immowelt:d8042b4c-b35c-4b5a-b135-89ea772617b8": {
+   "grund": "Tauschwohnung",
+   "tag": "2026-11-22",
+   "url": "https://www.immowelt.de/expose/d8042b4c-b35c-4b5a-b135-89ea772617b8"
+  },
+  "immoscout24:172941563": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-22",
+   "url": "https://www.immobilienscout24.de/expose/172941563"
+  },
+  "immowelt:3ac9c5d7-6acd-45f7-9a03-3024a78447e1": {
+   "grund": "Tauschwohnung",
+   "tag": "2026-11-22",
+   "url": "https://www.immowelt.de/expose/3ac9c5d7-6acd-45f7-9a03-3024a78447e1"
   }
  },
- "aktualisiert": "2026-11-22T13:17+00:00",
+ "aktualisiert": "2026-11-22T20:30+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -70692,9 +71225,9 @@
   "2026-11-22": {
    "scheideweg": {
     "miete": {
-     "aktiv": 10,
-     "qm": 18.03,
-     "neu": 0,
+     "aktiv": 11,
+     "qm": 20.0,
+     "neu": 1,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -70710,9 +71243,9 @@
    },
    "eimsbuettel": {
     "miete": {
-     "aktiv": 33,
-     "qm": 19.25,
-     "neu": 1,
+     "aktiv": 34,
+     "qm": 19.55,
+     "neu": 2,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -70746,17 +71279,17 @@
    },
    "hamburg": {
     "miete": {
-     "aktiv": 337,
-     "qm": 16.82,
-     "neu": 6,
+     "aktiv": 345,
+     "qm": 16.69,
+     "neu": 14,
      "weg": 0,
      "runter": 0,
      "hoch": 0
     },
     "kauf": {
-     "aktiv": 733,
+     "aktiv": 735,
      "qm": 5382.17,
-     "neu": 21,
+     "neu": 23,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -70800,9 +71333,9 @@
    },
    "w_alle": {
     "miete": {
-     "aktiv": 93,
+     "aktiv": 94,
      "qm": 12.63,
-     "neu": 0,
+     "neu": 1,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -75357,7 +75890,77 @@
    "2026-11-22",
    2,
    2
+  ],
+  "ee0ac4ddf0d7e83d": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "f269978044fe78c1": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "a7f0905c0d925f06": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "205c46d5f46f3354": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "e0804120fda098ae": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "039eee03f5c6b52d": [
+   "2026-11-22",
+   2,
+   2
+  ],
+  "d2d148775cccbfff": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "5607c2a817f05667": [
+   "2026-11-22",
+   0,
+   2
+  ],
+  "c3cd47af82746c93": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "fe17485d977aa041": [
+   "2026-11-22",
+   0,
+   2
+  ],
+  "f87e211d808c4e6e": [
+   "2026-11-22",
+   2,
+   2
+  ],
+  "00a8df93d7559b97": [
+   "2026-11-22",
+   4,
+   2
+  ],
+  "a6b320bd5a06a850": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "f81988de59a04fef": [
+   "2026-11-22",
+   1,
+   2
   ]
  },
- "letzte_mail": "2026-11-22T13:16+00:00"
+ "letzte_mail": "2026-11-22T20:29+00:00"
 }
