@@ -4955,7 +4955,7 @@
    "stadtteil_text": "Lengfeld",
    "strasse": null,
    "erstmals": "2026-11-09",
-   "zuletzt": "2026-11-09",
+   "zuletzt": "2026-11-22",
    "lat": 49.80673,
    "lon": 9.99451,
    "lage": "stadtteil",
@@ -64256,6 +64256,94 @@
     "traeger": "staatlich"
    },
    "aktiv": true
+  },
+  "immowelt:fbd5e85e-7b8d-4573-8fd0-cba1ab24b8f0": {
+   "id": "immowelt:fbd5e85e-7b8d-4573-8fd0-cba1ab24b8f0",
+   "quelle": "immowelt",
+   "url": "https://www.immowelt.de/expose/fbd5e85e-7b8d-4573-8fd0-cba1ab24b8f0",
+   "typ": "kauf",
+   "art": "Haus",
+   "preis": 931200.0,
+   "flaeche": 143.26,
+   "zimmer": 4.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": true,
+   "ausschluss": null,
+   "ort": "Würzburg",
+   "plz": "97082",
+   "stadtteil_text": "Steinbachtal",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 49.76858,
+   "lon": 9.90043,
+   "lage": "stadtteil",
+   "stadtteil": "Steinbachtal",
+   "bahn": {
+    "name": "Steinbachtal",
+    "linien": [
+     "Straba"
+    ],
+    "min": 35
+   },
+   "schule": {
+    "name": "Steinbachtal-Burkarder-Grundschule",
+    "min": 34,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
+  },
+  "immoscout24:172926881": {
+   "id": "immoscout24:172926881",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172926881",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 665.0,
+   "flaeche": 82.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Billstedt",
+   "strasse": null,
+   "erstmals": "2026-11-22",
+   "zuletzt": "2026-11-22",
+   "lat": 53.5489,
+   "lon": 10.12262,
+   "lage": "stadtteil",
+   "stadtteil": "Billstedt",
+   "bahn": {
+    "name": "Merkenstraße",
+    "linien": [
+     "U2"
+    ],
+    "min": 19
+   },
+   "schule": {
+    "name": "Grundschule Archenholzstraße",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "aktiv": true
   }
  },
  "geocache": {
@@ -66915,9 +67003,14 @@
    "grund": "nur Warmmiete genannt",
    "tag": "2026-11-21",
    "url": "https://www.immowelt.de/expose/e6eba525-0976-41e5-a1fe-8c110430698c"
+  },
+  "immoscout24:172928916": {
+   "grund": "Katalog-Neubau",
+   "tag": "2026-11-22",
+   "url": "https://www.immobilienscout24.de/expose/172928916"
   }
  },
- "aktualisiert": "2026-11-21T20:14+00:00",
+ "aktualisiert": "2026-11-22T00:39+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -69279,6 +69372,188 @@
      "aktiv": 123,
      "qm": 4207.92,
      "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   }
+  },
+  "2026-11-22": {
+   "scheideweg": {
+    "miete": {
+     "aktiv": 10,
+     "qm": 18.03,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 15,
+     "qm": 9320.39,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "eimsbuettel": {
+    "miete": {
+     "aktiv": 32,
+     "qm": 19.55,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 37,
+     "qm": 7875.0,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "alster": {
+    "miete": {
+     "aktiv": 34,
+     "qm": 21.77,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 34,
+     "qm": 9285.61,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "hamburg": {
+    "miete": {
+     "aktiv": 332,
+     "qm": 16.83,
+     "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 712,
+     "qm": 5401.42,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_kern": {
+    "miete": {
+     "aktiv": 36,
+     "qm": 12.96,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 40,
+     "qm": 4753.96,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_familie": {
+    "miete": {
+     "aktiv": 31,
+     "qm": 12.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 56,
+     "qm": 4078.89,
+     "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_alle": {
+    "miete": {
+     "aktiv": 93,
+     "qm": 12.63,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 119,
+     "qm": 3833.96,
+     "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_kern": {
+    "miete": {
+     "aktiv": 25,
+     "qm": 11.87,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 47,
+     "qm": 5101.71,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_gruen": {
+    "miete": {
+     "aktiv": 14,
+     "qm": 12.43,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 33,
+     "qm": 4569.04,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_alle": {
+    "miete": {
+     "aktiv": 58,
+     "qm": 11.75,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 123,
+     "qm": 4207.92,
+     "neu": 0,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -73546,7 +73821,27 @@
    "2026-11-21",
    0,
    2
+  ],
+  "41c812fe0aa49fa8": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "3fad8f9017dd3eb4": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "08940c7eeaafa727": [
+   "2026-11-22",
+   1,
+   2
+  ],
+  "0abf1d961767cef0": [
+   "2026-11-22",
+   1,
+   2
   ]
  },
- "letzte_mail": "2026-11-21T20:14+00:00"
+ "letzte_mail": "2026-11-22T00:39+00:00"
 }
