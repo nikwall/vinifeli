@@ -66082,6 +66082,51 @@
     "traeger": "staatlich"
    },
    "aktiv": true
+  },
+  "immoscout24:172942403": {
+   "id": "immoscout24:172942403",
+   "quelle": "immoscout24",
+   "url": "https://www.immobilienscout24.de/expose/172942403",
+   "typ": "miete",
+   "art": "Wohnung",
+   "preis": 1800.0,
+   "flaeche": 97.0,
+   "zimmer": 3.0,
+   "etage": null,
+   "frei_ab": null,
+   "energie": null,
+   "privat": false,
+   "provisionsfrei": false,
+   "neubau": false,
+   "kapitalanlage": false,
+   "balkon": null,
+   "terrasse": null,
+   "garten": null,
+   "ausschluss": null,
+   "ort": "Hamburg",
+   "plz": null,
+   "stadtteil_text": "Volksdorf",
+   "strasse": "Weiße Rose 6",
+   "erstmals": "2026-11-23",
+   "zuletzt": "2026-11-23",
+   "lat": 53.64761,
+   "lon": 10.16487,
+   "lage": "adresse",
+   "stadtteil": "Volksdorf",
+   "bahn": {
+    "name": "Volksdorf",
+    "linien": [
+     "U1"
+    ],
+    "min": 6
+   },
+   "schule": {
+    "name": "Schule Ahrensburger Weg",
+    "min": 10,
+    "traeger": "staatlich"
+   },
+   "laerm": 55,
+   "aktiv": true
   }
  },
  "geocache": {
@@ -67690,6 +67735,10 @@
   "Löwenstraße 52,  Hamburg": [
    53.5861543,
    9.9748435
+  ],
+  "Weiße Rose 6,  Hamburg": [
+   53.6476112,
+   10.1648705
   ]
  },
  "verworfen": {
@@ -68854,7 +68903,7 @@
    "url": "https://www.immowelt.de/expose/3ac9c5d7-6acd-45f7-9a03-3024a78447e1"
   }
  },
- "aktualisiert": "2026-11-22T20:30+00:00",
+ "aktualisiert": "2026-11-23T01:10+00:00",
  "verlauf": {
   "2026-11-09": {
    "scheideweg": {
@@ -71344,6 +71393,188 @@
      "aktiv": 121,
      "qm": 3833.96,
      "neu": 3,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_kern": {
+    "miete": {
+     "aktiv": 25,
+     "qm": 11.87,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 47,
+     "qm": 5101.71,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_gruen": {
+    "miete": {
+     "aktiv": 14,
+     "qm": 12.43,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 33,
+     "qm": 4569.04,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "l_alle": {
+    "miete": {
+     "aktiv": 58,
+     "qm": 11.75,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 123,
+     "qm": 4207.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   }
+  },
+  "2026-11-23": {
+   "scheideweg": {
+    "miete": {
+     "aktiv": 11,
+     "qm": 20.0,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 15,
+     "qm": 9320.39,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "eimsbuettel": {
+    "miete": {
+     "aktiv": 34,
+     "qm": 19.55,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 38,
+     "qm": 7674.05,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "alster": {
+    "miete": {
+     "aktiv": 35,
+     "qm": 21.73,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 34,
+     "qm": 9285.61,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "hamburg": {
+    "miete": {
+     "aktiv": 346,
+     "qm": 16.74,
+     "neu": 1,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 735,
+     "qm": 5382.17,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_kern": {
+    "miete": {
+     "aktiv": 36,
+     "qm": 12.96,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 42,
+     "qm": 4682.29,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_familie": {
+    "miete": {
+     "aktiv": 31,
+     "qm": 12.92,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 57,
+     "qm": 4047.62,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    }
+   },
+   "w_alle": {
+    "miete": {
+     "aktiv": 94,
+     "qm": 12.63,
+     "neu": 0,
+     "weg": 0,
+     "runter": 0,
+     "hoch": 0
+    },
+    "kauf": {
+     "aktiv": 121,
+     "qm": 3833.96,
+     "neu": 0,
      "weg": 0,
      "runter": 0,
      "hoch": 0
@@ -75960,7 +76191,12 @@
    "2026-11-22",
    1,
    2
+  ],
+  "cfd1306fb68eb61a": [
+   "2026-11-23",
+   1,
+   2
   ]
  },
- "letzte_mail": "2026-11-22T20:29+00:00"
+ "letzte_mail": "2026-11-23T01:10+00:00"
 }
