@@ -1,10 +1,11 @@
 # vinifeli
 
-Private App mit mehreren Bereichen: Wohnen (Hamburg, Würzburg, Lüneburg) und Vorschule.
+Private App mit mehreren Bereichen: Advent, Wohnen (Hamburg, Würzburg, Lüneburg) und Vorschule.
 
 ## Aufbau
 
 - `index.html`, `css/`, `js/`: die App, ohne Build-Schritt. Neue Tabs kommen in `BEREICHE` in `js/app.js`.
+- `js/advent.js`: Adventskette, Geschenke anlegen und auf 24 Päckchen je Kind verteilen. `js/adventdaten.js`: Speicher dafür (Supabase, Tabellen in `tools/advent.sql`; ohne Datenbank nur auf dem Gerät, zum Ausprobieren `?lokal`).
 - `js/vergleich.js`: Umrechnung zwischen Miete und Kauf.
 - `js/einordnung.js`: größte Stärke und Schwäche je Inserat.
 - `js/markt.js`: Marktverlauf. `js/karte.js`: Karte Wohnen. `js/kartenbasis.js`: Parks und Gewässer für alle Karten. `js/vorschule.js`: Bereich Vorschule. `js/reaktionen.js`: Likes und Kommentare (Supabase, Tabellen in `tools/supabase.sql`).

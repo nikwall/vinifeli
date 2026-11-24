@@ -3,11 +3,11 @@
 const BASIS = "https://rykkwkogdilnaifignvu.supabase.co/rest/v1/";
 const SCHLUESSEL = "sb_publishable_MdwZc5n_DPuv5scI_CIOWA_VBXDoCBM";
 
-function abruf(pfad, opt = {}) {
+export function abruf(pfad, opt = {}) {
   return fetch(BASIS + pfad, { ...opt, headers: { apikey: SCHLUESSEL, "Content-Type": "application/json", ...(opt.headers || {}) } });
 }
 
-async function pruefen(r) {
+export async function pruefen(r) {
   if (!r.ok) throw new Error(`Datenbank: ${r.status}`);
   return r;
 }

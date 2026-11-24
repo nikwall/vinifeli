@@ -250,6 +250,82 @@ button { cursor: pointer; }
 .regler output { font-weight: 600; font-variant-numeric: tabular-nums; }
 .regler input { grid-column: 1 / -1; width: 100%; height: 30px; accent-color: var(--blau); }
 
+/* Advent */
+.advent { --lilly: #c8102e; --felice: #2f7d5b; --lilly-hell: #fcf0f1; --felice-hell: #edf6f1; --schnur: #c9a227; }
+.v-kette, .v-vorrat { display: none; }
+[data-ansicht="kette"] .v-kette, [data-ansicht="vorrat"] .v-vorrat { display: block; }
+.advent .unten { grid-template-columns: 1fr 1fr; }
+.ad-hinweis { margin: 10px 12px 0; padding: 8px 11px; border-radius: 10px; background: #fbe9e6; color: var(--teuer); font-size: 13.5px; }
+.ad-stand { padding: 10px 12px 2px; }
+.ad-oben { position: sticky; top: 0; z-index: 20; padding: 6px 10px 0; background: var(--flaeche); border-bottom: 1px solid var(--linie); }
+.ad-stand p { margin: 0; font-size: 14px; }
+.ad-stand .klein { margin-top: 2px; }
+.ad-stand .k-lilly, .kette-kopf .k-lilly { color: var(--lilly); }
+.ad-stand .k-felice, .kette-kopf .k-felice { color: var(--felice); }
+.kette-kopf { display: grid; grid-template-columns: 1fr 34px 1fr; gap: 6px; padding: 4px 0 8px; text-align: center; font: 500 17px/1 var(--serife); }
+.ad-modus { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 8px; padding: 7px 8px 7px 12px; border-radius: 10px; background: var(--blau); color: #fff; font-size: 14px; line-height: 1.3; }
+.ad-modus small { opacity: .85; font-size: 12.5px; }
+.ad-modus .link { flex: none; min-height: 40px; padding: 0 8px; color: #fff; font-weight: 650; }
+.kette { list-style: none; margin: 0; padding: 10px 10px 18px; display: grid; gap: 8px; background: linear-gradient(var(--schnur), var(--schnur)) center / 2px 100% no-repeat; }
+.glied { display: grid; grid-template-columns: 1fr 34px 1fr; gap: 6px; }
+.knoten { align-self: center; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--flaeche); border: 2px solid var(--schnur); font-size: 14px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.glied.heute .knoten { background: var(--rot); border-color: var(--rot); color: #fff; }
+.pk { min-width: 0; min-height: 54px; display: flex; flex-wrap: wrap; align-content: center; gap: 4px; padding: 7px; border: 1.5px dashed #d6d0c2; border-radius: 10px; background: none; text-align: left; }
+.pk.k-lilly { justify-content: flex-end; text-align: right; }
+.pk.voll { border-style: solid; }
+.pk.voll.k-lilly { background: var(--lilly-hell); border-color: #f0c9ce; }
+.pk.voll.k-felice { background: var(--felice-hell); border-color: #c3dfcf; }
+.pk-leer { color: #aaa597; font-size: 13px; }
+.geschenk { max-width: 100%; padding: 3px 8px; border-radius: 7px; background: #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.07); font-size: 13px; font-weight: 550; line-height: 1.3; overflow-wrap: anywhere; }
+.geschenk small { color: var(--leise); font-size: 12px; font-weight: 400; }
+.verteilen .pk { border-color: var(--blau); box-shadow: 0 0 0 2px rgba(23,58,94,.12); }
+@media (hover: hover) { .pk:hover { border-color: var(--blau); } }
+
+.v-vorrat { padding: 12px 12px 18px; }
+.vorrat-kopf { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+.vorrat-kopf h2 { margin: 0; font: 500 21px/1.2 var(--serife); }
+.vorrat { display: grid; gap: 8px; }
+.ding { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 10px; padding: 10px 10px 10px 12px; background: var(--karte); border: 1px solid var(--linie); border-radius: var(--rund); }
+.ding.aktiv { border-color: var(--blau); box-shadow: 0 0 0 1px var(--blau); }
+.ding-text { display: grid; gap: 4px; min-width: 0; }
+.ding-text b { font-size: 15.5px; font-weight: 650; line-height: 1.25; overflow-wrap: anywhere; }
+.ding-text span { color: var(--leise); font-size: 13.5px; }
+.ding-text small { color: var(--leise); font-size: 12.5px; }
+.balken { display: block; height: 6px; border-radius: 3px; background: #ece8de; overflow: hidden; }
+.balken i { display: block; height: 100%; border-radius: 3px; background: var(--blau); }
+.balken.fertig i { background: var(--felice); }
+.ad-zuviel { margin: 0; color: var(--teuer); font-size: 13px; font-weight: 600; }
+.ding-knoepfe { display: grid; justify-items: center; gap: 2px; }
+.ding-verteilen { height: 40px; padding: 0 14px; border: 1px solid var(--blau); border-radius: 10px; background: var(--karte); color: var(--blau); font-weight: 600; }
+.ding-verteilen:disabled { border-color: var(--linie); color: var(--leise); cursor: default; }
+.ding-knoepfe .link { min-height: 32px; font-size: 13.5px; }
+.ad-fuss { margin-top: 14px; }
+
+.ad-inhalt { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.ad-inhalt li { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; column-gap: 4px; min-height: 44px; padding-left: 11px; border-radius: 10px; background: var(--flaeche); }
+.ad-inhalt li > span { grid-column: 1; grid-row: 1; font-weight: 550; overflow-wrap: anywhere; }
+.ad-notiz { grid-column: 1; grid-row: 2; min-width: 0; height: 38px; margin-bottom: 8px; padding: 0 9px; border: 1px solid var(--linie); border-radius: 8px; background: #fff; font-size: 16px; }
+.ad-inhalt .k-weg { position: static; grid-column: 2; grid-row: 1; width: 40px; height: 40px; }
+.ad-angebot { display: grid; grid-template-columns: repeat(auto-fill, minmax(135px, 1fr)); gap: 6px; }
+.ad-add { display: grid; align-content: center; gap: 1px; min-height: 50px; padding: 7px 10px; border: 1px solid var(--linie); border-radius: 10px; background: var(--karte); text-align: left; }
+.ad-add span { font-size: 14px; font-weight: 600; line-height: 1.25; }
+.ad-add small { color: var(--leise); font-size: 12px; }
+.ad-add:disabled { opacity: .45; cursor: default; }
+@media (hover: hover) { .ad-add:not(:disabled):hover { border-color: var(--blau); } }
+.ad-feld { display: grid; gap: 4px; font-size: 13.5px; font-weight: 600; }
+.ad-feld input { font-weight: 400; }
+.ad-wahl { display: flex; align-items: center; gap: 9px; min-height: 44px; font-size: 15px; }
+.ad-wahl input[type="radio"] { flex: none; width: 20px; height: 20px; margin: 0; accent-color: var(--blau); }
+.ad-wahl input[type="number"] { width: 76px; height: 40px; padding: 0 8px; border: 1px solid var(--linie); border-radius: 8px; font-size: 16px; }
+.ad-warn { color: var(--teuer); }
+.ad-weg { margin-right: auto; color: var(--teuer); }
+.ad-toast { position: fixed; z-index: 40; left: 12px; right: 12px; bottom: calc(var(--unten) + 10px); max-width: 460px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 9px 10px 9px 14px; border-radius: 10px; background: var(--tinte); color: #fff; font-size: 14px; box-shadow: 0 4px 16px rgba(0,0,0,.2); }
+.ad-toast .link { flex: none; min-height: 36px; padding: 0 4px; color: #fff; font-weight: 650; }
+@media (max-width: 440px) {
+  .kopf.vier { gap: 8px; padding: 0 10px; }
+  .kopf.vier .tab { padding: 0 5px; font-size: 14px; }
+}
+
 /* Großer Bildschirm: Karte daneben */
 @media (min-width: 900px) {
   body { padding-bottom: 0; }
@@ -270,4 +346,12 @@ button { cursor: pointer; }
   .vs .v-liste { grid-row: 1; }
   .vs .v-karte { grid-row: 1; height: auto; }
   .vs .unten { display: none; }
+  .advent { display: grid; grid-template-columns: minmax(360px, 420px) 1fr; grid-template-rows: auto 1fr; height: calc(100dvh - 54px); }
+  .advent .ad-hinweis { grid-column: 1 / -1; }
+  .advent .v-vorrat, .advent .v-kette { display: block; grid-row: 2; min-height: 0; overflow-y: auto; }
+  .advent .v-vorrat { grid-column: 1; border-right: 1px solid var(--linie); }
+  .advent .v-kette { grid-column: 2; }
+  .advent .unten { display: none; }
+  .advent .kette, .ad-oben > *, .ad-stand > * { max-width: 720px; margin-inline: auto; }
+  .ad-toast { bottom: 20px; }
 }
